@@ -1,4 +1,4 @@
-# Quietly — YouTube automatic Ad mute extension?`
+# Quietly — YouTube automatic Ad mute extension
 
 **Quietly** is a Chrome extension that automatically detects YouTube ads and mutes them in real time and then restores audio for normal video playback.
 
@@ -6,7 +6,7 @@ It runs entirely on the client side and requires no external servers.
 
 ---
 
-## Features:
+## Features
 
 - ✅ Automatically mutes YouTube ads  
 - ✅ Restores audio when the ad ends  
@@ -18,7 +18,7 @@ It runs entirely on the client side and requires no external servers.
 
 ---
 
-## How It Works:
+## How It Works
 
 ### Message Flow
 1. User clicks **Enable/Disable** in the popup  
@@ -29,7 +29,7 @@ It runs entirely on the client side and requires no external servers.
 
 ---
 
-## Project Structure:
+## Project Structure
 ```bash
 Quietly/
 │
@@ -49,7 +49,7 @@ Quietly/
 ```
 ---
 
-## Installation (Developer Mode):
+## Installation (Developer Mode)
 
 1. Open **Chrome**
 2. Go to:  chrome://extensions/
@@ -59,7 +59,7 @@ Quietly/
 
 ---
 
-## Permissions Used:
+## Permissions Used
 
 - `activeTab` – communicate with current tab  
 - `scripting` – content script injection  
@@ -67,7 +67,7 @@ Quietly/
 
 ---
 
-## Limitations:
+## Limitations
 
 - YouTube UI changes may break selectors temporarily  
 - Does not block ads visually — only mutes them  
@@ -77,9 +77,7 @@ Quietly/
 
 ## 🤝 Contributing
 
-Pull requests are welcome.
-
-If you improve ad detection logic or UI, feel free to submit a PR.
+We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details on how to get started, including branching, commit message formatting, and local testing.
 
 ---
 
