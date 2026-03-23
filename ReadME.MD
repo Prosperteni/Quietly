@@ -77,9 +77,7 @@ Quietly/
 
 ## 🤝 Contributing
 
-Pull requests are welcome.
-
-If you improve ad detection logic or UI, feel free to submit a PR.
+We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details on how to get started, including branching, commit message formatting, and local testing.
 
 ---
 
